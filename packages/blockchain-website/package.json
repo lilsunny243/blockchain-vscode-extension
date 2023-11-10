@@ -13,7 +13,7 @@
     "npm": ">=5.6"
   },
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "bootstrap": "^4.4.1",
     "bootstrap-scss": "^4.4.1",
     "carbon-components": "^10.7.2",
